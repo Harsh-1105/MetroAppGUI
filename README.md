@@ -19,14 +19,14 @@ The Metro App GUI is a sophisticated solution for efficiently navigating complex
 ## Contributing
 We welcome contributions from the open-source community. If you're interested in enhancing the Metro App GUI, please follow these steps:
 
-Fork the Repository: Begin by forking this repository to create your own copy.
+- **Fork the Repository:** Begin by forking this repository to create your own copy.
 
-Create a New Branch: Develop your feature or bug fix in a new branch.
+- **Create a New Branch:** Develop your feature or bug fix in a new branch.
 
-Document Your Changes: Ensure that your code is well-documented for clarity and maintainability.
+- **Document Your Changes:** Ensure that your code is well-documented for clarity and maintainability.
 
-Test Thoroughly: Rigorously test your changes to catch any issues or bugs.
+- **Test Thoroughly:** Rigorously test your changes to catch any issues or bugs.
 
-Submit a Pull Request: Once your changes are ready, submit a pull request with a clear description of your modifications.
+- **Submit a Pull Request:** Once your changes are ready, submit a pull request with a clear description of your modifications.
 
 For significant contributions, it's advisable to open an issue first to discuss your proposed changes with the project maintainers.
