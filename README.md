@@ -34,8 +34,3 @@ For significant contributions, it's advisable to open an issue first to discuss 
 
 
 
-
-https://github.com/Harsh-1105/MetroAppGUI/assets/78211002/f81846a7-e87e-4ed6-bee9-77c8198c4c4e
-
-
-
